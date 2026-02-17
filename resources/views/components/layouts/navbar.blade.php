@@ -6,7 +6,7 @@
             {{-- logo --}}
             <img src="{{ asset('images/logo-dashboard.png') }}" alt="Logo" width="32" class="me-3">
             {{-- title --}}
-            <span class="fs-4 text-uppercase">Aplikasi Keuangan</span>
+            <span class="fs-4 text-uppercase">MoneyFlow</span>
         </a>
     </div>
 </nav>

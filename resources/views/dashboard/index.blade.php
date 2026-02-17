@@ -6,7 +6,7 @@
     <div class="bg-white rounded-2 shadow-sm p-4 mb-5">
         <div class="row align-items-center g-5">
             <div class="col-lg-3">
-                <img src="{{ asset('images/img-dashboard.svg') }}" class="img-fluid opacity-85" alt="images" loading="lazy">
+                <img src="{{ asset('images/undraw_wallet_diag.svg') }}" class="img-fluid opacity-85" alt="images" loading="lazy">
             </div>
             <div class="col-lg-9">
                 <h5 class="text-success mb-2">
